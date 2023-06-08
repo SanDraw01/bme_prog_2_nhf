@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1685607337 source:d:\filmtar_nhf\main.cpp
+	<iostream>
+	"linkedList.h"
+	"film.h"
+	"dokumentumFilm.h"
+	"csaladiFilm.h"
+	"gtest_lite.h"
+	"memtrace.h"
+	"exception.h"
+
+1685197571 d:\filmtar_nhf\linkedlist.h
+	"film.h"
+	"string5.h"
+
+1685171177 d:\filmtar_nhf\film.h
+	<iostream>
+	"string5.h"
+
+1683189098 source:d:\filmtar_nhf\linketlist.cpp
+	"linkedList.h"
+	<iostream>
+	"string.h"
+
+1684935780 d:\filmtar_nhf\string5.h
+	<iostream>
+
+1684935806 source:d:\filmtar_nhf\string5.cpp
+	<iostream>
+	<cstring>
+	"string5.h"
+
+1685607445 source:d:\filmtar_nhf\linkedlist.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"linkedList.h"
+	"string.h"
+	"dokumentumFilm.h"
+	"csaladiFilm.h"
+	"exception.h"
+
+1682091864 d:\filmtar_nhf\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+
+1682091864 source:d:\filmtar_nhf\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1682091864 d:\filmtar_nhf\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1685171467 d:\filmtar_nhf\dokumentumfilm.h
+	"film.h"
+
+1685171277 d:\filmtar_nhf\csaladifilm.h
+	"film.h"
+
+1685303584 source:d:\filmtar_nhf\film.cpp
+	"film.h"
+	<iostream>
+
+1685171602 source:d:\filmtar_nhf\dokumentumfilm.cpp
+	"dokumentumFilm.h"
+	<iostream>
+
+1685171526 source:d:\filmtar_nhf\csaladifilm.cpp
+	"csaladiFilm.h"
+	<iostream>
+
+1685244666 d:\filmtar_nhf\exception.h
+
